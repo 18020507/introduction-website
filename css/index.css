@@ -210,6 +210,15 @@ header {
   font-weight: bold;
   border-radius: 10px;
 }
+.carousel_button {
+  background-color: #ffd700;
+  padding: 10px 30px;
+  font-size: 20px;
+  width: auto;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+}
 .service_item_1 {
   background-image: url("../images//service_background_1.png");
   background-position: center;
